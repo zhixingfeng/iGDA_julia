@@ -1,0 +1,6 @@
+authors = ["zhixingfeng <zxfeng.thu@gmail.com>"]
+name = "iGDA_julia"
+uuid = "6be2f35c-b2b0-11e8-3c0c-71c6f5d00856"
+version = "0.1.0"
+
+[deps]
